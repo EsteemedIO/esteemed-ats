@@ -1,0 +1,7 @@
+langcode: en
+status: true
+dependencies: {  }
+name: 'ATS Candidate Status'
+vid: ats_candidate_status
+description: 'Taxonomy terms for ATS Candidate Status'
+weight: 0

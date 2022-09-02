@@ -1,0 +1,7 @@
+langcode: en
+status: true
+dependencies: {  }
+name: 'ATS Employee Type'
+vid: ats_employee_type
+description: 'Taxonomy terms for ATS Employee Type'
+weight: 0
