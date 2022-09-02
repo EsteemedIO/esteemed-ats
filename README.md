@@ -1,5 +1,3 @@
-# ATS (Applicant Tracking System)
-
 CONTENTS OF THIS FILE
 ---------------------
 
@@ -15,9 +13,12 @@ CONTENTS OF THIS FILE
 INTRODUCTION
 ------------
 
-The Drupal ATS project is an open-source Applicant Tracking System built on Drupal, and sponsored by Esteemed.
+The Drupal ATS project is an open-source Applicant Tracking System built
+on Drupal, and sponsored by Esteemed.
 
-Applicant Tracking Systems are closely related to Customer Relationship Management (CRM) systems, but they are tuned to facilitate a screening and hiring workflow. The Drupal ATS project extends the data model of RedHen CRM.
+Applicant Tracking Systems are closely related to Customer Relationship
+Management (CRM) systems, but they are tuned to facilitate a screening and
+hiring workflow. The Drupal ATS project extends the data model of RedHen CRM.
 
  * For a full description of the module, visit the project page:
    https://www.drupal.org/project/ats
